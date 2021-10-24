@@ -1,0 +1,10 @@
+﻿  Animal.cpp
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Animal.cpp(8,17): error C2275: "std::string": niedozwolone użycie tego typu jako wyrażenia
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Animal.cpp(8): message : zobacz deklarację „std::string”
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Animal.cpp(8,24): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „name”
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Animal.cpp(9,2): error C2612: końcowy „:” niedozwolony na liście inicjatorów obiektów bazowych/składowych
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Animal.cpp(15,1): fatal error C1004: napotkano nieoczekiwany znacznik końca pliku
+  Źródło.cpp
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Źródło.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Nauka\NAUKA Z PAWLEM\NAUKA Z PAWEL\NAUKA Z PAWEL\Źródło.cpp(5,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+  Generowanie kodu...
